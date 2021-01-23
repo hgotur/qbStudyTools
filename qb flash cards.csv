@@ -1,0 +1,380 @@
+Clue,Answer,Subject
+Generalized the binomial theorem,Isaac Newton,Math
+Method to find roots of a differential equation,Newton's Method,Math
+Wrote the Elements,Euclid,Math
+Came up with 5 postulates of geometry,Euclid,Math
+Contains proof of infinitely many primes,Elements,Math
+Came up with first proof of infinitely many primes,Euclid,Math
+"""Prince of Mathematics""",Gauss,Math
+Wrote Disquisitiones Arithmeticae,Gauss,Math
+Founder of number theory,Gauss,Math
+Originally stated of fundamental theorem of arithmetic,Euclid,Math
+What is the fundamental theorem of algebra,Every polynomial equation of degree n has n complex roots,Math
+Determined purity of a gold crown using density,Archimedes,Math
+Used inscribed and circumscribed polygons to approximate pi,Archimedes,Math
+This society estimated the value of pi as 3,Babylonians,Math
+Introduced the greek letter for pi,William Jones,Math
+Popularized greek letter for pi,Euler,Math
+Introduced i = sqrt(-1),Euler,Math
+came up with modern notation for sin/cos/…,Euler,Math
+"called e^(i *pi) = -1 the ""most beautiful equation in mathematics""",Richard Feynmann,Math
+He proved the prime number theorem,Gauss,Math
+what is the prime number theorem?,# of primes < n ~= n / ln(n),Math
+most calculus notation comes from him,Liebniz,Math
+Modern inventor of binary system,Liebniz,Math
+came up with precursor to logic/boolean algebra,Liebniz,Math
+state fermat's little theorem,(a^p -a) is divisible by p,Math
+what form are fermat primes,2^(2^n) - 1,Math
+state fermat's last theorem,a^n + b^n = c^n has no solutions for n > 2,Math
+what book did fermat say he had a proof of fermat's last theorem,Arithmetica,Math
+wrote Arithmetica,Diophantus,Math
+proved Fermat's Last Theorem,Andrew Wiles,Math
+worked with Fermat on probability theory,Pascal,Math
+Invented graph theory,Euler,Math
+Graph theory was invented to solve this problem,Seven Bridges of Konnigsberg,Math
+0.57721 is this constant,Euler-Mascheroni,Math
+Came up with 2 incompleteness theorems,Kurt Godel,Math
+Died from hunger due to paranoia of being poisoned,Kurt Godel,Math
+state godel's incompleteness theorem,a formal logic system must have statements that are true but unprovable,Math
+Andrew Wiles proved this conjecture to prove Fermat's Last Theorem,Taniyam-Shimura Conjecture,Math
+Command center of the cell,Nucleus,Science
+Contains all of the cell's DNA,Nucleus,Science
+DNA is in this form during most of the cell cycle,Chromatin,Science
+DNA switches to chromasomes during this phase,Mitosis,Science
+Ribosomal RNA is produced in this organelle,Nucleolus,Science
+"In this type of organisom, there is no nuclear envelope",Prokaryote,Science
+Proteins are made in this organelle,Ribosomes,Science
+These 2 organelles have a double membrane,Mitochondria/Chloroplasts,Science
+Respiration happens in this organelle,Mitochondria,Science
+Mitochondria produce energy and release this molecule,ATP,Science
+Final protein structures are determined in this organelle,Endoplasmic Reticulum,Science
+ER is characterized as smooth or rough based on the presence of this organelle,Ribosomes,Science
+Post office of the cell,Golgi Apparatus,Science
+Golgi apparatus does this,Stores proteins and packages the for delivery in vesicles,Science
+These transport materials in the plasma membrane,Vesicles,Science
+This organelle processes vesicles that come from outside the cell,Lysosome,Science
+Lysosomes do this,"break down proteins, lipids, nucleic acids",Science
+This organelle contains chlorophyll,Chloroplasts,Science
+This organelle is the site of photosynthesis,Chloroplasts,Science
+Chloroplasts contain these structures where photosynthesis ACTUALLY occurs,Thylakoids,Science
+Vacuoles do this,serve as storage for food and waste products,Science
+Fresh water plants use this organelle to regulate water imbalance due to salt,Vacuoles,Science
+These organelles allow a cell to move,Cilia and Flagella,Science
+Describe flagella,"long, whip-like structures",Science
+Describe cilia,short hair-like structures,Science
+g + 2 arrangement of microtubules,Cilia and Flagella,Science
+Cilia and Flagella are powered by ,Kinesin and Dynein,Science
+This organelle organizes the microtubule spindle during mitosis,Centrioles,Science
+Proved e^(i * pi) = -1,Euler,Science
+He quantified wave particle duality,Louis de Broglie,Science
+What is wave particle duality,all particles have a characteristic wavelength dependent on their momentum,Science
+He explained the photoelectric effect,Albert Einstein,Science
+What is the photoelectric effect?,,Science
+He explained Brownian motion,Albert Einstein,Science
+He reconciled Maxwell's Equations with classical mechanics,Albert Einstein,Science
+What is Brownian motion?,,Science
+These laws describe low temperature behavior of electrons,Fermi-Dirac statistics,Science
+Particles that obey Fermi-Dirac statistics are known as,Fermions,Science
+He proposed the existence of neutrinos,Fermi,Science
+Describe beta decay,a neutron is transformed into a proton by the emission of an electron + anti-neutrino,Science
+An alpha particle is the nucleus of this element,Helium,Science
+Describe alpha decay,An alpha particle is ejected from a nucleus resulting in an element with atomic # 2 less than the original,Science
+An alpha particle has how many protons and neutrons?,"2 protons, 2 neutrons",Science
+"Came up with ""sum over histories"" to calculate path of a particle",Richard Feynmann,Science
+Created Quantum Electrodynamics,Richard Feynmann,Science
+Richard Feynmann won the nobel prize in this year,1965,Science
+Predicted abundance of hydrogen and helium in the early universe,George Gamow,Science
+Theorized of the existence of cosmic microwave background radiation,George Gamow,Science
+Discovered Cosmic Microwave Background Radiation,Arno Pensias and Robert Wilson,Science
+Discovered allotropic forms of hydrogen,Werner Heisenberg,Science
+What are allotropes,"Physical forms that an element can bond together (graphite, diamond)",Science
+Heisenberg won the nobel prize in this year,1932,Science
+He came up with a law of radiation that superseded Rayleigh-Jeans Law,Max Planck,Science
+Solved the ultraviolet catastrophe,Max Planck,Science
+Said the energy of a particle = wavelength * fixed value h,Max Planck,Science
+He proved that atoms have a large positively charged nucleus,Ernest Rutherford,Science
+Discovered Carbon-14 decay,Ernest Rutherford,Science
+Came up with fundamentals for carbon dating,Ernest Rutherford,Science
+Discovered the proton,Ernest Rutherford,Science
+Rutherford performed this experiment,Gold Foil Experiment,Science
+Discovered the neutron with James Chadwick,Ernest Rutherford,Science
+The ideal gas law was stated by this person,Clapyeron,Science
+State the ideal gas law,PV = nRT,Science
+Ideal gas law doesn't apply to real particles because it doesn't account for these two things,"molecular size, intermolecular forces of attraction",Science
+This law generalizes the ideal gas law for real particles,van der Waals equation,Science
+State Boyle's Law,Pressure of a gas is inversely proportional to volume,Science
+He was Robert Boyle's assistant,Robert Hooke,Science
+State Charles's Law,Volume of a gas is proportional to temperature,Science
+Charles's Law was confirmed by these two people,"John Dalton, Gay-Lusaac",Science
+State Avagadro's Law,Volume of a gas is proportional to amount of molecules,Science
+Avagadro's number was named by this person,Jean Baptiste Perrin,Science
+Avagadro's number is defined as this,the number of molecules in 1 gram of oxygen,Science
+State Gay-Lusaac's Law,Pressure is directly proportional to temperature,Science
+He wrote the Skeptical Chymist,Robert Boyle,Science
+He wrote Micrographia,Robert Hooke,Science
+State Hooke's law,force needed to extend or compress a string scales with distance,Science
+Law of elasticity is the generalization of this law,Hooke's Law,Science
+State the law of elasticity,strain of an elastic material is proportional to the stress applied to it,Science
+Hooke's work led to the invention of this,a watch,Science
+He wrote Opticks,Isaac Newton,Science
+He discovered Benzene,Michael Faraday,Science
+The farad is the si unit of,capacitance,Science
+He discovered diamagnetism,Michael Faraday,Science
+He discovered the law of electrolysis,Michael Faraday,Science
+"He named ""anode"" and ""cathode"", ""ion""",Michael Faraday,Science
+He formulated the theory of electromagnetic radiation,James Clerk Maxwell,Science
+"This is referred to as ""The second great unification of physics""",Maxwell's Equations,Science
+"He wrote ""A Dynamic Theory of the Electromagnetic Field""",James Clerk Maxwell,Science
+He wrote Hydrodynamica,Daniel Bernoulli,Science
+This distribution describes the kinetic theory of gases,Maxwell-Boltzmann Distribution,Science
+"He wrote ""A Treatise on Electricity and Magnetism""",James Clerk Maxwell,Science
+"He showed that light, electricity, and magnetism were all manefestations of the same substance",James Clerk Maxwell,Science
+This experiement proved aether couldn't exist,Michelson-Morley Experiment,Science
+He presented the first color photograph,James Clerk Maxwell,Science
+Entropy was explained by this person,Ludwig Boltzmann,Science
+He provided the statistical explanation of the second law of thermodynamics,Ludwig Boltzmann,Science
+State the first law of thermodynamics,conservation of energy,Science
+State the second law of thermodynamics,entropy always increases,Science
+These laws makes perpetual motion machines impossible,Laws of thermodynamics,Science
+He first stated the first law of thermodynamics,Rudolph Clausius,Science
+State the third law of thermodynamics,The entropy of a system approaches a constant value as temperature approaches absolute zero,Science
+Conservation of Energy can be proven by this theorem,Noether's Theorem,Science
+State Noether's theorem,Every differentiable symmetry has an associated conservation law,Science
+He derived Bernoulli's Equation,Leohnard Euler,Science
+State Bernoulli's principle,speed of a fluid is inversely proportional to pressure,Science
+"The name ""Quark"" comes from this book",Finnegan's Wake,Science
+Quantum chromodynamics is the study of this,Quarks,Science
+He discovered Helium,Sir William Ramsay,Science
+He discovered hydrogen,Henry Cavendish,Science
+This element has the lowest boiling point,Helium,Science
+He discovered Oxygen,Joseph Priestly,Science
+He discovered Nitrogen,Daniel Rutherford,Science
+This process is used to create NH3,Haber Bosch Process,Science
+These two elements are liquid at room temperature,Mercury and Bromine,Science
+This element is used in vulcanization to create rubber,Sulfur,Science
+This element is isolated using the frasch process,Sulfur,Science
+"This element is the fith most common in the universe, and second most commen halogen",Neon,Science
+He first isolated aluminm,Hans Christian Orsted,Science
+This process isolates aluminum,Bayer Process,Science
+This substance dissolves gold,aqua regia,Science
+This element is used with scanning electron microscopes,Gold,Science
+The first column of the periodic table is called,Alkali metals,Science
+The second column of the periodic table is called,Alkaline Earth Metals,Science
+List the alkali metals,"Lithium, Sodium, Potassium, Rubidium, Cesium, Francium",Science
+List the alkaline earth metals,"Beryllium, Magnesium, Calcium, Strontium, Barium, Radium",Science
+List the boron group,"Boron, Aluminum, Gallium, Indium, Thallium",Science
+List the carbon group,"Carbon, Silicon, Germanium, Tin, Lead",Science
+List the nitrogen group,"Nitrogen, Phosphorus, Arsenic, Antimony, Bismuth",Science
+List the oxygen group,"Oxygen, Sulfur, Selenium, Tellurium, Polonium",Science
+List the halogens,"Fluorine, Chloine, Bromine, Iodine, Astatine",Science
+List the nobel gases,"Helium, Neon, Argon, Krypton, Xenon, Radon",Science
+He named hydrogen,Antoine Lavoisier,Science
+He tried to measure the density of the earth,Henry Cavendish,Science
+A parabola is the set of points for which the distance from these two components is equal,"Focus, Directrix",Math
+Who are the main characters of To Kill A Mockingbird,"Scout, Jem, Atticus, Dill, Boo Radley, Calpurnia, Tom Robinson, Bob Ewell, Mayella Ewell",Literature
+To Kill a Mockingbird takes place in this city,Maycomb Alabama,Literature
+What is the plot of To Kill a Mockingbird,"1) Scout, Jem, and Dill receive gifts from a tree on the Boo Radley house, but Nathan Radley eventually cuts them off
+2) Atticus takes up a case to defend Tom Robinson from rape allegations
+3) Tom Robinson is found guilty, tries to escape, but is killed
+4) Bob Ewell tries to take revenge on the Finches but is killed by Boo Radley",Literature
+She is the Finches' black cook,Calpurnia,Literature
+These two people accuse Tom Robinson of rape,Bob & Mayella Ewell,Literature
+He is Boo Radley's older brother,Nathan Radley,Literature
+Who are the main characters of The Great Gatsby,"Nick Carraway, Jay Gatsby, Tom & Daisy Buchanan, Jordan Baker, Myrtle & George Wilson",Literature
+What is the plot of The Great Gatsby,"1) Nick moves to West Egg, meets Daisy & Tom in East Egg and discovers that Tom is having an affair
+2) Gatsby throws extravagant parties. He is in love with Daisy and has Nick arrange a meeting. They start an affair
+3) Tom is outraged and stages a confrontation where Daisy chooses Tom. Daisy kills Myrtle in a car accident.
+4) George, thinking Gatsby was Myrtle's lover, kills Gatsby. No one attends Gatsby's funeral",Literature
+Gatsby makes his fortune through this activity,Bootlegging of alcohol,Literature
+[The Great Gatsby] Nick and Tom are educated at this university,Yale,Literature
+These are the main characters of Brave New World,"John, Lenina, Bernard, Helmholtz Watson, Mustapha Mond",Literature
+What is the plot of Brave New World,"1) Bernard and Lenina visit a ""savage"" reservation in New Mexico. The find Linda, the director's partner, and John, their son
+2) The Director resigns in embarassament of having a son, and John becomes a celebrity
+3) John becomes disillusioned with the lack of humanity in society and starts a riot.
+4) John and Mustapha Mond have a debate on the World State's policies. Bernard and Helmholtz are exhiled
+5) John lives in the country-side whipping himself. He gives in to lust for Lenina and hangs himself",Literature
+The Central London Hatching and Conditional Center is used to produce embryos in this book,Brave New World,Literature
+This is the name of the society in Brave New World,The World State,Literature
+[Brave New World] John learns to read through a book of this man's works,William Shakespeare,Literature
+Who are the main characters of 1984,"Winston Smith, Julia, O' Brien, Mr. Charrington",Literature
+What is the plot of 1984,"1) Winston dislikes the Party. He buys an illegal diary to record thoughts
+2) Winston receives a note from Julia that says ""I love you"". They start an affair, and rent a room above a store in the Prole district
+3) Winston meets O' Brien a member of the inner party who gives him a book by the Brotherhood
+4) Winston and Julia are caught by the thought police, Winston is torchered, and submits to the Party",Literature
+[1984] Winston Smith works in this department,Ministry of Truth,Literature
+This is the name of the language in 1984,Newspeak,Literature
+[1984] This is the leader of the Brotherhood,Emmanuel Goldstein,Literature
+This explorer sailed the Chesapeake Bay and led to the British claim for Canada,John Cabot,American History
+Searched for the fountain of youth and discovered Florida,Juan Ponce de Leon,American History
+Conquered the Aztecs,Hernan Cortez,American History
+Conquered the Incas,Francisco Pizzaro,American History
+"Looked for the Northwest Passage, explored Canada",Jacque Cartier,American History
+"Explored Mexico, Kansas, and the Southwest US",Francisco Coranado,American History
+"Established Quebec in ""New France""",Samuel de Champlain,American History
+This was the first permanent English settlement in America,Jamestown,American History
+This settlement began on lands belonging to the Powhatan Confederacy,Jamestown,American History
+This settlement was briefly abandoned in 1610 because 80% of the colonists died of starvation and disease,Jamestown,American History
+This settlement served as the capital of the colonies from 1616 - 1699,Jamestown,American History
+Jamestown was burned down in 1676 during this rebellion,Bacon's Rebellion,American History
+The 1585 Roanoke colony was a failed settlement in this present-day state,North Carolina,American History
+This colony became known as the lost colony due to the disappearance of it's population in 1590,Roanoke Colony,American History
+Jamestown colonists almost abandoned the settlement and headed back to England on these two ships,Deliverance and Patience,American History
+"The ""Day of Providence"" saved this colony from abandonment",Jamestown,American History
+This man started planting tobacco at Jamestown,John Rolfe,American History
+This was the first representative assembly in the US,"The General Assembly at Jamestown, Virginia",American History
+The capital of Virginia was moved from Jamestown to this place in 1698,Williamsburg,American History
+Bacon's rebellion was a rebellion against this governor of Virginia,William Berkeley,American History
+The pilgrims went aboard the Mayflower to escape persecution from this king,James I,American History
+"The pilgrims were supposed to also use this other ship, but it sprung leaks",Speedwell,American History
+Pilgrims were of this religion,Calvinism (part of Protestantism),American History
+Accounts of the pilgrims are known due to this second governer of Plymouth's books,William Bradford,American History
+The pilgrims were based here before leaving for America,"Leiden, Holland",American History
+The non-puritan group on the Mayflower were called these,Strangers,American History
+George Burroughs was a minister executed during this event,Salem Witch Trials,American History
+The first people who were arrested during the Salem Witch Trials are,"Sarah Good, Sarah Osbourne, Tituba",American History
+"These two girls were the ""victims"" of the first Salem Witch Trial accusations","Ann Putnam Jr, Elizabeth Hubbard",American History
+This man ushered in the First Great Awakening,George Whitefield,American History
+The French and Indian War started in this year,1756,American History
+Fort Dusquesne is in this present day city,Pittsburgh,American History
+This battle in the French and Indian War took place on the Plains of Abraham,Battle of Quebec,American History
+This treaty ended the French and Indian War,Treaty of Paris,American History
+Who was the king of Britain during the French and Indian War,"King George II to start, King George III at the end",American History
+The British passed these acts to pay down debts after the French and Indian War,"Sugar, Stamp, Townshend Acts",American History
+Disputes over this fort started the French and Indian War,Fort Duquesne,American History
+Spain ceded Florida to the British as part of this treaty,Treaty of Paris,American History
+He was the French King during the French and Indian War,Louis XV,American History
+The Proclamation of 1763 did this,forbade settlement on lands west of the Appalachian mountains,American History
+Rhode Island was founded by this person,Roger Williams,American History
+"Anne Hutchinson founded Portsmouth, which merged with this colony",Rhode Island,American History
+This colony created the first written constitution in America,Connecticut,American History
+"This colony was founded by it's namesake's ""Holy Experiment""",Pennsylvania,American History
+This person founded Maryland,Lord Baltimore,American History
+This was the last of the original 13 colonies to be founded,Georgia,American History
+James Oglethorpe was a philanthropist from this colony,Georgia,American History
+"This economic theory believed that to gain money, a country had to export more than it imported",Mercantilism,American History
+These laws prevented colonies from trading with other countries,Navigation Laws,American History
+"Puritans signed a treaty with this Indian group, which lead to the Thanksgiving tradition",Wampanoag,American History
+King Philip's War happened in this region of America,New England,American History
+"In the Frencha and Indian war, this tribe was France's major ally",Huron,American History
+"In the Frencha and Indian war, this tribe was Britain's major ally",Iroquois,American History
+Lord De La Warr was the governor of this colony,Virginia,American History
+This person invented the cotton gin,Eli Whitney,American History
+The Stono rebellion happened in this colony,South Carolina,American History
+"The barbados codes of 1661 established that these were ""chattel"" aka property and had no rights",Slaves,American History
+"Baptists, Methodists, Presbyterians, and Evangelicals are denominations of this denomination of christianity",Protestants,American History
+This policy led to the lax enforcement of the Navigation Laws,salutary neglect,American History
+Bacon's rebellion was a rebellion by this group of people,poor white farmers,American History
+This colonly was created for catholics,Maryland,American History
+George Washington lost the first battle of the French and Indian War at this fort,Fort Necessity,American History
+"This plan was created by the British to unify the colonies and the Iroquois to fight the French and Indian War, although it was rejected",Albany Plan,American History
+This person created the Albany Plan,Ben Franklin,American History
+This act of 1767 taxed tea,Townshend Act,American History
+"""No taxation without representation"" cries began after this act",Stamp Act,American History
+The Sons of Liberty staged this protest against the British,Boston Tea Party,American History
+The First Continental Congress met in this city,Philadelphia,American History
+"This work argued that large America should not be controlled by tiny England, and that the colonists should declare independence",Common Sense,American History
+"The ""shout heard round the world"" happened here","Lexington, Massachusetts",American History
+These are a group of German soldiers hired by George III to fight the American Revolution,Hessians,American History
+The Battle of Bunker Hill was a pyrrhic victory for the British in this war,American Revolution,American History
+The largest battle of the American Revolution was this battle,Battle of Long Island,American History
+This battle took place immediately after Washington crossed the Delaware River,Battle of Trenton,American History
+He was the commander of the British army during the American Revolution,William Howe,American History
+He was the British commander at the Battles of Saratoga,John Burgoyne,American History
+The Battles of Bemis Hill and Freeman's Farm took place at this location,"Saratoga, NY",American History
+Benedict Arnold scored a victory for the Americans in this campaign before defecting to the British,Saratoga,American History
+An American victory in this campaign convinced the French to enter the American Revolution,Saratoga,American History
+This battle was the final battle of the American Revolution,Battle of Yorktown,American History
+Yorktown was located in this colony,Virginia,American History
+This British General surrendered at Yorktown,Charles Cornwallis,American History
+Benedict Arnold was caught about to surrender his forces to the British at this location,"West Point, NY",American History
+Ethan Allen lead this group to capture Fort Ticonderoga,Green Mountain Boys,American History
+These two people led the capture of Fort Ticonderoga,"Ethan Allen, Benedict Arnold",American History
+Fort Ticonderoga was in this colony,New York,American History
+This treaty ended the American Revolution,Treaty of Paris,American History
+"This declaration in France started the French revolution, as a parallel to the Declaration of Independence",Declaration of the Rights of Man,American History
+"The Northwest Ordiance of 1787 which allowed applications for statehood after a population of 60,000 was reached was one of the only successful acts under this rule",Articles of Confederation,American History
+This rebellion in Massachusetts caused the replacement of the Articles of Confederation,Shays' Rebellion,American History
+This plan gave states with more population more power in Congress,Virginia Plan,American History
+This plan gave all states equal power in Congress,New Jersey Plan,American History
+This plan created a bicameral legislature,Great Compromise/Connecticut Compromise,American History
+This state was the first to ratify the constitution,Delaware,American History
+This state did not send delegates during the creation of the constitution,Rhode Island,American History
+"He was called ""the Father of the constitution""",James Madison,American History
+He was the first Treasury Secretary,Alexander Hamilton,American History
+This rebellion in 1794 created informal political parties,Whiskey Rebellion,American History
+This party believed in decentralization of power and states rights,Democratic-Republicans,American History
+This party believed in a strong national government,Federalists,American History
+Alexander Hamilton belonged to this party,Federalists,American History
+Thomas Jefferson belonged to this party,Democratic-Republicans,American History
+He issued the Proclomation of Neutrality,George Washington,American History
+Jay's Treaty was signed during this man's  presidency,George Washington,American History
+"The ""quasi war"" was unofficially fought with this country",France,American History
+This event occurred when French diplomats demanded bribes for American diplomats to speak with the French,XYZ Affair,American History
+"These laws made it harder for immigrants to gain citizenship, allowed deportation of non-citizens deemed ""dangerous"", and criminalized making false statements about the federal government",Alien and Sedition Acts,American History
+The Kentucky and Virginia resolutions were written in response to these acts,Alien and Sedition Acts,American History
+"The Kentucky resolution was written by this person, in secret",Thomas Jefferson,American History
+"The Virginia resolution was written by this person, in secret",James Madison,American History
+He invented the steam engine,James Watt,American History
+Pontiac's Rebellion occurred in this region,Ohio Valley,American History
+Pontiac's Rebellion occurred in this year,1763,American History
+John Adams belonged to this party,Federalists,American History
+"The election of 1800 was known as this due to the peaceful transition of power, which was rare at the time",Revolution of 1800,American History
+This was the dominant political party during the Era of Good Feelings,Democratic-Republicans,American History
+"This court case established the process of ""judicial review""",Marbury v Madison,American History
+"He was arrested for treason for trying to create an independent nation in Texas, California, New Mexico",Aaron Burr,American History
+The Missouri compromise of 1820 kept the balance of free/slave states by admitting Missouri and this other state,Maine,American History
+This was a policy by the British to capture American crew and ships and use them as British soldiers,Impressment,American History
+The Chesapeake affair was a prelude to this war,War of 1812,American History
+The Star Spangled Banner was written at this battle,Battle of Fort McHenry,American History
+This treaty ended the War of 1812,Treaty of Ghent,American History
+This battle in the war of 1812 happened after the Treaty of Ghent,Battle of New Orleans,American History
+This person was the American commander in the Battle of New Orleans,Andrew Jackson,American History
+He invented the reaper to harvest grain and wheat,Cyrus McCormick,American History
+He invented the telegraph,Samuel Morse,American History
+"The ""corrupt bargain"" was a deal between these two men","John Quincy Adams, Henry Clay",American History
+These four men ran for president in 1824,"Andrew Jackson, John Quincy Adams, Henry Clay, William H. Crawford",American History
+"This state attempted to claim that it had the power to void the Tariff of 1828, which it deemed unconstitutional",South Carolina,American History
+This crisis was the result of South Carolina attempting to void the Tariff of 1828,Nullification Crisis,American History
+This compromise ended the nullification crisis,The Compromise Tariff of 1833,American History
+"He appointed a ""kitchen cabinent"" after his cabinet resigned in response to the Peggy Eaton affair",Andrew Jackson,American History
+The Whig party replaced this former party,Federalists,American History
+Mother Ann Lee was a leader of this religious movement,Shakers,American History
+These are the two main principles of the Calvinist church,"Original Sin, Predestination",American History
+He was the preeminent preacher of the Second Great Awakening,Charles Grandison Finney,American History
+The American Temperance society sought to reform this,Alcohol usage,American History
+"This person lobbied for mental health reform, rather than locking the mentally ill in jain",Dorothea Dix,American History
+"This man reformed public schools, made them mandatory, and helped make them free",Horace Mann,American History
+These two people organized the Seneca Falls Convention,"Elizabeth Cady Stanton, Lucretia Mott",American History
+"These two people wrote the ""Declaration of Sentiments""","Elizabeth Cady Stanton, Lucretia Mott",American History
+This movement led to much social reform,Second Great Awakening,American History
+"""The Liberator"" was an anti-slavery newspaper started by this person",William Lloyd Garrison,American History
+This was the deadliest slave revolt,Nat Turner's Rebellion,American History
+This treaty opened up trade with Japan,Treaty of Kanagawa,American History
+He was the first Democrat president,Andrew Jackson,American History
+He was the first Republican president,Abraham Lincoln,American History
+"This unsuccessful provision tried to fund the Mexican American War, but in return banned slavery in captured territories",Wilmot Proviso,American History
+This treaty ended the Mexican American War,Treaty of Guadalupe Hidalgo,American History
+The Fugitive Slave Act was a part of this law,Compromise of 1850,American History
+"The compromise of 1850 admitted this state to the union, tipping the balance in the favor of free states",California,American History
+The Compromise of 1850 was written by these three people,"Henry Clay, Daniel Webster, Stephen Douglas",American History
+This act partially repealed the Missouri compromise and let states choose free/slave by popular sovereignty,Kansas-Nebraska Act,American History
+"The Kansas Nebraska Act led to this party being split up into ""Consciene"" and ""Cotton"" sects",Whigs,American History
+This senator beat Charles Sumner with a cane,Preston Brooks,American History
+The Lecompton Constitution was a draft for this state,Kansas,American History
+"This case ruled that the federal government couldn't create laws that prohibited slavery, since propery was protected by the fifth amendment",Dred Scott v Sanford,American History
+He wrote the Freeport Doctrine,Stephen Douglas,American History
+This was compromise to extend the Missouri Compromise to California was a last ditch effort to prevent slave states from seceding after Lincoln was elected,Crittendon Compromise,American History
+An attack at this fort started the Civil War,Fort Sumter,American History
+This state was the first to secede from the unioon,South Carolina,American History
+This plan helped restrict the South's access to resources during the civil war,Anaconda Plan,American History
+This was the bloodiest day in US History,Battle of Antietem,American History
+These two civil war battles happened at the same time,Gettysburg and Vicksburg,American History
+This was the first major battle of the civil war,Battle of First Bull Run,American History
+Commander Albert Sidney Johnston was fatally wounded in this surprise attack against Grant's forces,Battle of Shiloh,American History
+"This union general fought at the Battle of Antietem, but gave away a significant advantage by waiting too long",George McClellan,American History
+Pickett's charge took place in this battle,Battle of Gettysburg,American History
+This was the union general at Gettysburg,George Meade,American History
+This union general won the Battle of Vicksburg,Ulysses S Grant,American History
+These were the slave states that stayed loyal to the union,"Missouri, Kentucky, Maryland, Delaware",American History
+The Credit Mobilier Affair happened on this president's watch,Ulysses S Grant,American History
+The Whiskey Ring happened under this president,Ulysses S Grant,American History
